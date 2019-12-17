@@ -1,0 +1,4 @@
+/node_modules/iview-mpvue/dist/components/tab/tab.vue
+46-49行、52行注释掉
+computed里面加  scroll(){return this.$parent.scroll},
+解决新版vue警告错误

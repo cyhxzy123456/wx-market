@@ -1,0 +1,13 @@
+{
+  "name": "wx_market",
+  "version": "1.0.0",
+  "description": "微信小程序商城",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iview-mpvue": "^1.0.6"
+  }
+}

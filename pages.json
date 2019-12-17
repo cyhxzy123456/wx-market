@@ -1,0 +1,296 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/goods/cheapGoods/cheapGoods",
+			"style": {
+				"navigationBarTitleText": "超值商品"
+			}
+		},
+		{
+			"path": "pages/goods/goodsByCategory/goodsByCategory",
+			"style": {
+				"navigationBarTitleText": "分类"
+			}
+		},
+		{
+			"path": "pages/member/home/home",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/member/usercart/usercart",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/member/orderList/orderList",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/member/orderList/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/member/orderList/confirmOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/member/orderList/logisticsInfo",
+			"style": {
+				"navigationBarTitleText": "订单跟踪"
+			}
+		},
+		{
+			"path": "pages/member/pay/pay",
+			"style": {
+				"navigationBarTitleText": "订单支付"
+			}
+		},
+		{
+			"path": "pages/member/pay/payOk",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/goods/goodsDetail/goodsDetail",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/member/addressMange/addAddress",
+			"style": {
+				"navigationBarTitleText": "添加地址"
+			}
+		},
+		{
+			"path": "pages/member/addressMange/addressList",
+			"style": {
+				"navigationBarTitleText": "地址管理"
+			}
+		},
+		{
+			"path": "pages/member/message/message",
+			"style": {
+				"navigationBarTitleText": "我的消息"
+			}
+		},
+		{
+			"path": "pages/member/invitation/invitation",
+			"style": {
+				"navigationBarTitleText": "邀请好友"
+			}
+		},
+		{
+			"path": "pages/member/message/messageDetail",
+			"style": {
+				"navigationBarTitleText": "消息详情"
+			}
+		},
+		{
+			"path": "pages/member/about/about",
+			"style": {
+				"navigationBarTitleText": "关于"
+			}
+		},
+		{
+			"path": "pages/member/setting/setting",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/member/setting/setNickName",
+			"style": {
+				"navigationBarTitleText": "设置昵称"
+			}
+		},
+		{
+			"path": "pages/member/login/updateLoginPwd",
+			"style": {
+				"navigationBarTitleText": "修改登录密码"
+			}
+		},
+		{
+			"path": "pages/member/login/forget",
+			"style": {
+				"navigationBarTitleText": "忘记登录密码"
+			}
+		},
+		{
+			"path": "pages/member/orderComment/orderComment",
+			"style": {
+				"navigationBarTitleText": "我的评价"
+			}
+		},
+		{
+			"path": "pages/member/orderComment/commitComment",
+			"style": {
+				"navigationBarTitleText": "发布评价"
+			}
+		},
+		{
+			"path": "pages/member/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/member/reg/reg",
+			"style": {"navigationBarTitleText": "用户注册"}
+		},
+		{
+			"path": "pages/member/protocol/protocol",
+			"style": {"navigationBarTitleText": "用户协议"}
+		},
+		{
+			"path": "pages/member/credit/credit",
+			"style": {
+				"navigationBarTitleText": "积分"
+			}
+		},
+		{
+			"path": "pages/member/recommend/recommend",
+			"style": {
+				"navigationBarTitleText": "分享数据"
+			}
+		},
+		{
+			"path": "pages/member/reward/reward",
+			"style": {
+				"navigationBarTitleText": "奖金"
+			}
+		},
+		{
+			"path": "pages/member/reward/yesterday",
+			"style": {
+				"navigationBarTitleText": "昨日奖金"
+			}
+		},
+		{
+			"path": "pages/member/reward/used",
+			"style": {
+				"navigationBarTitleText": "累计使用"
+			}
+		},
+		{
+			"path": "pages/member/reward/total",
+			"style": {
+				"navigationBarTitleText": "累计奖金"
+			}
+		},
+		{
+			"path": "pages/member/collect/collectList",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/member/drawing/drawing",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		},
+		{
+			"path": "pages/member/drawing/addBank",
+			"style": {
+				"navigationBarTitleText": "绑定银行卡"
+			}
+		},
+		{
+			"path": "pages/goods/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		}
+	    ,{
+            "path" : "pages/goods/userEvaluate/userEvaluate",
+            "style" : {"navigationBarTitleText": "用户评价"}
+        }
+        ,{
+            "path" : "pages/index/activityRules/activityRules",
+            "style" : {"navigationBarTitleText": "赚钱攻略"}
+        }
+        ,{
+            "path" : "pages/member/exchangeGoods/exchangeGoods",
+            "style" : {"navigationBarTitleText": "退货换货"}
+        }
+        ,{
+            "path" : "pages/ADself/ADself",
+            "style" : {"navigationBarTitleText": "活动"}
+        }
+        ,{
+            "path" : "pages/member/business/business",
+            "style" : {"navigationBarTitleText": "申请分销"}
+        }
+        ,{
+            "path" : "pages/activity/luck/luck",
+            "style" : {"navigationBarTitleText": "幸运大抽奖"}
+        }
+        ,{
+            "path" : "pages/activity/luck_log/luck_log",
+            "style" : {"navigationBarTitleText": "奖品记录"}
+        }
+        ,{
+            "path" : "pages/activity/activity_list/activity_list",
+            "style" : {"navigationBarTitleText": "活动"}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "商城",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#333333",
+		"selectedColor": "#ff6000",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/ico-index.png",
+				"selectedIconPath": "static/tabbar/ico-index-active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/goods/goodsByCategory/goodsByCategory",
+				"iconPath": "static/tabbar/ico-category.png",
+				"selectedIconPath": "static/tabbar/ico-category-active.png",
+				"text": "分类"
+			},{
+				"pagePath": "pages/member/usercart/usercart",
+				"iconPath": "static/tabbar/ico-usercart.png",
+				"selectedIconPath": "static/tabbar/ico-usercart-active.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/member/home/home",
+				"iconPath": "static/tabbar/ico-home.png",
+				"selectedIconPath": "static/tabbar/ico-home-active.png",
+				"text": "我的"
+			}
+		]
+	},
+	"condition": {
+		"current": 0,
+		"list": []
+	}
+}
